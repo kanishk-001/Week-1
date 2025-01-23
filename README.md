@@ -1,2 +1,4 @@
 # Week-1
-Crop and Fertilizer Recommendation System using ML
+## Crop and Fertilizer Recommendation System using ML
+
+The provided project was improved by incorporating several essential components to ensure its functionality and effectiveness. This includes comprehensive data exploration steps such as checking for missing and duplicated values, dataset statistics, and value counts for target classes. A robust machine learning pipeline was developed using the Random Forest Classifier, with proper data splitting, model training, and evaluation through a classification report and confusion matrix. Feature importance analysis was added to provide insights into the most influential factors for predictions. Finally, a crop recommendation function was implemented for practical use cases, alongside visualization enhancements for better interpretability of results. These additions ensure a complete and user-friendly system for crop and fertilizer recommendations.
